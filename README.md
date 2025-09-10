@@ -10,5 +10,5 @@
 <details>
   <summary>GSAP</summary>
   
-  1. [Introdução a GSAP](front-end/gsap/1.IntroduçãoGSAP.md)
+  1. [Introdução ao GSAP](front-end/gsap/1.IntroduçãoGSAP.md)
 </details>
