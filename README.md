@@ -12,3 +12,11 @@
   
   1. [Introdução ao GSAP](front-end/gsap/1.IntroduçãoGSAP.md)
 </details>
+
+### ✨ Qualidade de Software
+<details>
+  <summary>Visão Geral</summary>
+  
+  1. [Introdução a Qualidade de Software](qualidade-de-software/Introducao.md)
+  2. [Qualidade de Processo de Software](qualidade-de-software/qualidade-de-processo.md)
+</details>
