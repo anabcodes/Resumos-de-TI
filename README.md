@@ -18,5 +18,6 @@
   <summary>Visão Geral</summary>
   
   1. [Introdução a Qualidade de Software](qualidade-de-software/Introducao.md)
-  2. [Qualidade de Processo de Software](qualidade-de-software/qualidade-de-processo.md)
+  2. [Qualidade do Produto de Software](qualidade-de-software/qualidade-de-produto.md)
+  3. [Qualidade de Processo de Software](qualidade-de-software/qualidade-de-processo.md)
 </details>
